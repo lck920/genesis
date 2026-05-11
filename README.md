@@ -1,4 +1,4 @@
-# Genesis Flood
+# Genesis
 
 🌪️ **What is this?**
 A deluge of packets to test the resilience of the digital ark. Designed to generate significant traffic loads, it simulates high Gbps scenarios to push network infrastructures to their limits and evaluate resilience. When run concurrently across multiple instances, it can scale output to rigorously test capacity and bottleneck thresholds.
@@ -27,8 +27,8 @@ A deluge of packets to test the resilience of the digital ark. Designed to gener
 
 1. Clone this repository or download the source code:
    ```bash
-   git clone https://github.com/lck920/genesis-flood
-   cd genesis-flood
+   git clone https://github.com/lck920/genesis
+   cd genesis
    ```
 
 2. (Optional) While the script only relies on standard libraries, you can install the dependencies listed in `requirements.txt`:
